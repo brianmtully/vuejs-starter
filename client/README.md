@@ -1,6 +1,6 @@
-# tor-trip-finder
+# vuejs starter
 
-> TOR Trip Finder
+> Vuejs Starter
 
 ## Build Setup
 
